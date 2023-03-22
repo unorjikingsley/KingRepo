@@ -28,7 +28,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -37,7 +36,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-Hello Microverse Project is an entry level project for recent Micronuts. The aim of this project is to familiarize ourselves with Git, GitHub and also npm packages.
+Hello Microverse Project is an entry level project for recent Micronuts. The aim of this project is for students to familiarize theirselves with Git, GitHub and also npm packages.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,14 +45,14 @@ Hello Microverse Project is an entry level project for recent Micronuts. The aim
 <details>
   <summary>HTML</summary>
   <ul>
-    <li><a href="#">React.js</a></li>
+    <li><a href="#">javascript</a></li>
   </ul>
 </details>
 
 <details>
   <summary>CSS</summary>
   <ul>
-    <li><a href="#">Express.js</a></li>
+    <li><a href="#">css</a></li>
   </ul>
 </details>
 
@@ -61,7 +60,7 @@ Hello Microverse Project is an entry level project for recent Micronuts. The aim
 
 ### Key Features <a name="key-features"></a>
 
-- Display text on v8 engines 
+- Display text on Chrome or any v8 engines 
 - colour text of green
 - Error free
 
@@ -71,7 +70,7 @@ Hello Microverse Project is an entry level project for recent Micronuts. The aim
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](http://127.0.0.1:5500/)
+- [Live Demo Link](http://127.0.0.1:5500/) Local Host
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +99,7 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-  The project is not yet capable of installation but subsequent updates would have that feature.
+  The project is not yet capable of installation but subsequent updates would have that feature. 
 
 
 ### Usage
@@ -160,7 +159,7 @@ Feel free to make a an edit to the code and ask for my permission.
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, you can support by giving feedback and also better codes to improve the project
+If you like this project, you can support by giving feedback and also suggest better codes to improve the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,22 +168,6 @@ If you like this project, you can support by giving feedback and also better cod
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for this opportunity to be part of this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Why are there few codes ]**
-
-  - [Its was a Microverse project and it would not be wise to go outside the scope.]
-
-- **[Are you hoping to improve on it in the future]**
-
-  - [Most definitely, there wold be frequent visit from me or my coding partners to improve the project]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
